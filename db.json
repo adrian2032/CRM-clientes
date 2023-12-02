@@ -1,4 +1,5 @@
-{ "clientes" : [
+{
+  "clientes": [
     {
       "id": 1,
       "nombre": "Juan",
@@ -31,8 +32,24 @@
       "id": 5,
       "nombre": "Pedro",
       "telefono": 1398198938,
-      "email" : "pedro@juan.com",
+      "email": "pedro@juan.com",
       "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "adrian",
+      "empresa": "ensaga",
+      "email": "adrianarmaza@gmail.com",
+      "telefono": "3516788790",
+      "notas": "vz",
+      "id": 6
+    },
+    {
+      "nombre": "adrian",
+      "empresa": "ensaga",
+      "email": "adrianarmaza@gmail.com",
+      "telefono": "3516788790",
+      "notas": "vz",
+      "id": 7
     }
   ]
 }
